@@ -1,24 +1,71 @@
-# EcoMarket-Analizi
-Proje Özeti: Bu proje, 500 satırlık sentetik bir e-ticaret veri seti üzerinden satış performansı, müşteri memnuniyeti ve pazarlama verimliliğini analiz etmektedir. Analiz, sadece rakamları değil, operasyonel iyileştirme önerilerini de içermektedir. 
+<div align="center">
+  <h1>📊 EcoMarket E-Ticaret Stratejik Analiz Raporu</h1>
+  <p><b>Veri Analizi | Finansal Optimizasyon | Operasyonel Karar Destek</b></p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</div>
 
-Kullanılan Teknolojiler:
+<br />
 
-* Python (Pandas, NumPy)
+## 📋 Yönetici Özeti (Executive Summary)
+Bu çalışma, EcoMarket firmasının 2023 yılına ait **9.59 Milyon TL** tutarındaki satış verilerini analiz ederek, karlılığı artıracak ve operasyonel maliyetleri düşürecek stratejik içgörüler sunar. Analiz; matematiksel modelleme ve ROI (Yatırım Getirisi) odaklı bir yaklaşımla hazırlanmıştır.
 
-* Veri Görselleştirme: Matplotlib, Seaborn
+<div align="center">
+  <table border="1">
+    <tr>
+      <td><b>Toplam Ciro</b></td>
+      <td><b>En Yıldız Bölge</b></td>
+      <td><b>En Yüksek ROI</b></td>
+    </tr>
+    <tr>
+      <td align="center">₺9,593,478.97</td>
+      <td align="center">Marmara (₺2.61M)</td>
+      <td align="center">Giyim (19.08x)</td>
+    </tr>
+  </table>
+</div>
 
-* Analitik Yaklaşım: ROI Analizi, Haftalık Trend Analizi, Korelasyon Kontrolü
+<br />
 
-**Öne Çıkan Bulgular:**
+## 🔍 Temel Analitik Bulgular
 
+### 1. Bölgesel Performans ve Marmara Dominansı
+Yapılan analizlere göre toplam satış olarak en fazla ciroya sahip bölge **Marmara** bölgesidir. Bu satışların büyük bir çoğunluğunu **Kozmetik** kategorisi (₺910,432.06) sırtlamaktadır.
+* **İç Anadolu:** Ciro bakımından diğer bölgelere göre daha düşük bir seyir izlemiştir.
+* **Mevsimsellik:** Genel ciroda en yüksek performans **Mart** ayında gözlemlenmiştir.
 
-Bölgesel Lider: Marmara bölgesi toplam ciroda liderdir.
+### 2. Kozmetik Kategorisi ve Müşteri Memnuniyeti Paradoksu
+Analizin en çarpıcı bulgusu, **Kozmetik** kategorisinin en yüksek ciroyu getirmesine rağmen en düşük müşteri memnuniyet puanlarına sahip olmasıdır. 
+* Marmara bölgesinde bu kategoride 13 adet "1 puan" gözlemlenmiş olup, operasyonel bir iyileştirme ihtiyacı tespit edilmiştir.
+* Buna karşın, **Ev & Yaşam** kategorisi düşük ciro getirmesine rağmen en yüksek memnuniyet puanlarını toplamaktadır.
 
+### 3. ROI (Yatırım Getirisi) ve Pazarlama Verimliliği
+Sadece satış rakamlarına değil, pazarlama harcamalarının verimliliğine ($ROI$) odaklanıldığında:
+* **Giyim** kategorisi $19.08$ katsayısı ile reklam bütçesini en verimli kullanan alandır.
+* Stratejik bütçe yönetiminde bu verimlilik farkı dikkate alınmalıdır.
 
-Kategori Bazlı Ciro: En yüksek gelir Kozmetik kategorisinden gelmektedir.
+<br />
 
+## ⚙️ Operasyonel İçgörü: "Salı Günü" Etkisi
+Veri madenciliği çalışmaları sonucunda, Kozmetik kategorisindeki satış adetlerinin **Salı** günleri (696 adet) zirve yaptığı tespit edilmiştir. 
+> **Öneri:** Salı günleri lojistik ve saha personeli sayısının artırılması, müşteri memnuniyet puanını doğrudan yükseltecektir.
 
-Müşteri Deneyimi Paradoksu: Kozmetik kategorisi en yüksek ciroyu getirmesine rağmen, memnuniyet puanı ile satışlar arasında negatif bir ayrışma gözlemlenmiştir.
+<br />
 
+## 💡 2024 Stratejik Yol Haritası
+1. **Verimlilik Odaklı Bütçe:** Pazarlama yatırımları, ROI oranı en yüksek olan **Giyim** kategorisine kaydırılmalıdır.
+2. **Operasyonel Optimizasyon:** Salı günleri Kozmetik operasyonları için ek kapasite planlanmalıdır.
+3. **Müşteri Kaybını Önleme:** Kozmetik kategorisindeki düşük puanların (1-2 puan) kök neden analizi yapılarak iyileştirme süreci başlatılmalıdır.
 
-Operasyonel Keşif: Kozmetik satışlarının Salı günleri pik yaptığı tespit edilmiştir.
+<br />
+
+<hr />
+
+<div align="center">
+  <p><b>Esra Zeynep Türkmen</b></p>
+  <p><i>Yüksek Matematikçi | Finansal Operasyon | Yapay Zeka ve Veri Bilimi Uzmanı Adayı</i></p>
+  <a href="https://www.linkedin.com/in/ezturkmen">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
