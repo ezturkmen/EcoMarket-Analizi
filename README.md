@@ -8,6 +8,18 @@
 
 <br />
 
+🔗 **Hızlı Erişim ve Etkileşimli Analiz**
+
+Bu projenin tüm hesaplamalarını ve veri işleme adımlarını interaktif olarak incelemek için aşağıdaki butonu kullanabilirsiniz:
+
+<a href="https://colab.research.google.com/drive/1-VomA90ZlmLQskTMxdf_-XHC6g_QpPG_?usp=sharing">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" 
+alt="Open In Colab"/></a>
+
+Not: Analiz içerisinde $9,593,478.97$ TL'lik toplam ciro ve %$19.08$ ROI oranları gibi finansal metriklerin tüm hesaplama detayları mevcuttur.
+
+
+
 ## 📋 Yönetici Özeti (Executive Summary)
 Bu çalışma, EcoMarket firmasının 2023 yılına ait **9.59 Milyon TL** tutarındaki satış verilerini analiz ederek, karlılığı artıracak ve operasyonel maliyetleri düşürecek stratejik içgörüler sunar. Analiz; matematiksel modelleme ve ROI (Yatırım Getirisi) odaklı bir yaklaşımla hazırlanmıştır.
 
